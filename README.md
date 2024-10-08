@@ -1,5 +1,5 @@
 # Netcheck
-A dead simple SwiftUI project to verify internet connectivity and see your IP addresses, across all Apple platforms, coming soon, for real this time. (Whenever I fix some of the Settings bugs. And maybe add a proper Settings menu for macOS. And maybe sync Settings on watchOS over iCloud. And maybe finalize the tvOS and visionOS versions. And maybe add a better dark mode widget to better match iOS 18's dark icons. Okay maybe I have a lot more work to do here.)
+A dead simple SwiftUI project to verify internet connectivity and see your IP addresses, across all Apple platforms, coming soon, for real this time. (Whenever I fix some of the Settings bugs. And maybe add a proper Settings menu for macOS. And maybe sync Settings on watchOS over iCloud. And maybe finalize the tvOS and visionOS versions. And maybe add a better dark mode widget to better match iOS 18's dark icons. Okay maybe I have a lot more work to do here. I'm not distributing a public release until it's fully baked!)
 
 <img src="https://github.com/forcequitOS/Netcheck/blob/main/ncmacOSv2.png?raw=true" alt="The Netcheck macOS app icon" width="25%">
 
