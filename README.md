@@ -1,18 +1,18 @@
 # Avenis
-A dead simple SwiftUI project to verify internet connectivity and see your IP addresses, across all Apple platforms, coming soon, for real this time. (Whenever I fix some of the Settings bugs. And maybe add a proper Settings menu for macOS. And maybe sync Settings on watchOS over iCloud. And maybe finalize the tvOS and visionOS versions. And maybe add a better dark mode widget to better match iOS 18's dark icons. And POSSIBLY add appleOS '22 support too (For my dearest jailbreak users, godspeed). Okay maybe I have a lot more work to do here. I'm not distributing a public release until it's fully baked!)
+A dead simple SwiftUI project to verify internet connectivity and see your IP addresses, across (MOSTLY, sorry tvOS, you might be able to come back later) appleOS '23 and later, coming soon, for real this time. I am nearing the finish line.
 
-<img src="https://github.com/forcequitOS/Avenis/blob/main/ncmacOSv2.png?raw=true" alt="The Avenis macOS app icon" width="25%">
+<img src="https://github.com/forcequitOS/Avenis/blob/main/ncmacOSv2.png?raw=true" alt="The Avenis macOS app icon" width="35%">
 
 ### Features:
-- Support for iOS, iPadOS, macOS, tvOS, visionOS, and watchOS, seriously.
+- Support for iOS, iPadOS, macOS, visionOS, and watchOS, seriously.
 - Widgets for your Home Screen, Lock Screen, Apple Watch Face, Mac desktop, and watchOS Smart Stack, yes, actually.
 - Somewhat properly scaled Retina icons for macOS (I see you, low res display users)
 - Designed to take advantage of watchOS 10 UI design
 - Full iOS 18 icon theming support (With tintable widgets too, don't think I forgot that now.)
-- Displays your public and private IP addresses (Genuinely very useful on specifically watchOS, where it's damn near impossible to get your private IP address.)
-- Keyboard shortcuts on macOS
+- Displays your public and private IP addresses (Especially useful on watchOS, where it's almost impossible to get your IP address)
+- Keyboard shortcuts wherever you need them
 - No sideloading required on iPads! (As I distribute a Swift Playgrounds version of Netcheck at the same exact time I distribute the standard IPAs)
-- Fast. Simple. What more could you want?
+- Fast. Simple. Kinda configurable. What more could you want?
 
 ### Credits:
 
