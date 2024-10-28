@@ -11,7 +11,7 @@ A dead simple SwiftUI project to verify internet connectivity and see your IP ad
 - Full iOS 18 icon theming support (With tintable widgets too, don't think I forgot that now.)
 - Displays your public and private IP addresses (Especially useful on watchOS, where it's almost impossible to get your IP address)
 - Keyboard shortcuts wherever you need them
-- No sideloading required on iPads! (As I distribute a Swift Playgrounds version of Netcheck at the same exact time I distribute the standard IPAs)
+- No sideloading required on iPads! (Avenis is distributed as a Swift Playground at the same time IPAs are released for it
 - Fast. Simple. Kinda configurable. What more could you want?
 
 ### Credits:
@@ -21,5 +21,18 @@ This project used to be called Netcheck until I realized a *verrry* similar app 
 On the topic of similar apps, I'm gonna go ahead and also recommend [IsThereNet](https://github.com/FuzzyIdeas/IsThereNet), pretty cool looking app!
 
 For the record, I started developing Netcheck (now Avenis) around March to help me kill time and have just been struggling to complete it, but I promise I *will* do so someday soon!
+
+### So what do I download?
+
+Here's a chart.
+
+| File Names            | Supported OS              | Details                                                               |
+|-----------------------|---------------------------|-----------------------------------------------------------------------|
+| Avenis.ipa            | iOS & iPadOS 17 and later | iPhone and iPad .ipa, sideload with AltStore, Sideloadly, etc.        |
+| Avenis.zip            | macOS 14 Sonoma and later | Unsigned Mac .app, drag to /Applications and allow in System Settings |
+| AvenisExpanse.ipa     | visionOS 1 and later      | Apple Vision .ipa, sideload with Sideloadly or similar tools          |
+| AvenisWatch.ipa       | watchOS 10 and later      | Apple Watch .ipa, good luck installing this (just build from source)  |
+| AvenisLight.zip       | iPadOS 17 and later       | Swift Playgrounds .swiftpm package, exclusively for iPads             |
+| (Future) AvenisTV.ipa | tvOS 17 and later         | Apple TV .ipa, install with Sideloadly or build from source           |
 
 <sub>The Avenis about screen is going right into my vault of "UI's I'm genuinely proud that I made", it looks so good.</sub>
