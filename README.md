@@ -1,7 +1,7 @@
 # Avenis
 A dead simple SwiftUI project to verify internet connectivity and see your IP addresses, across (MOSTLY, sorry tvOS, you might be able to come back later) appleOS '23 and later, coming soon, for real this time. I am nearing the finish line.
 
-<img src="https://github.com/forcequitOS/Avenis/blob/main/ncmacOSv2.png?raw=true" alt="The Avenis macOS app icon" width="35%">
+<img src="https://github.com/forcequitOS/Avenis/blob/main/About%20Avenis.png?raw=true" alt="The Avenis > About page, shows app icon, version 1.0 development beta, 16 days of development time" width="35%">
 
 ### Features:
 - Support for iOS, iPadOS, macOS, visionOS, and watchOS, seriously.
@@ -21,3 +21,5 @@ This project used to be called Netcheck until I realized a *verrry* similar app 
 On the topic of similar apps, I'm gonna go ahead and also recommend [IsThereNet](https://github.com/FuzzyIdeas/IsThereNet), pretty cool looking app!
 
 For the record, I started developing Netcheck (now Avenis) around March to help me kill time and have just been struggling to complete it, but I promise I *will* do so someday soon!
+
+<sub>The Avenis about screen is going right into my vault of "UI's I'm genuinely proud that I made", it looks so good.</sub>
