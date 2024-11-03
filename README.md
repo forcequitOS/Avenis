@@ -21,6 +21,8 @@ Oh, and [r/SwiftUI](https://reddit.com/r/SwiftUI) for helping me get through som
 
 For the record, I started developing Netcheck (now Avenis) around March to help me kill time and have just been struggling to complete it, but I promise I *will* do so someday soon!
 
+Finally, the About screen is my own creation. It started as originally just an Avenis thing, but ended up having a whole separate release as a Swift Package (ironically before Avenis itself did). It's called [Summit](https://github.com/forcequitOS/Summit), use it as you wish in your apps! I may have accidentally put more effort into the about screen than I did the app itself...
+
 ### So what do I download?
 
 Here's a chart.
@@ -35,7 +37,3 @@ Here's a chart.
 ### Future Plans:
 
 After the... actual final release of Avenis, I have two main things planned for the future. "1.5", "The Widget Update", to bring some much needed enhancements to the widgets, which will be plentiful, but a bit lacking at launch, and "2.0", "The Background Update", possibly bringing background monitoring and a menu bar extra to the Mac app. No promises, though.
-
-Also, the About screen ("Summit") is going to be modularized, since I want other apps to feel free to use it. This might happen before the official release, this might happen AFTER the official release, I just know it's going to happen, and probably before "The Widget Update".
-
-<sub>The Avenis about screen, Summit, is going right into my vault of "UI's I'm genuinely proud that I made", it looks so good.</sub>
